@@ -49,9 +49,7 @@ Caso utilize este material como referência, cite como:
 
 Além do relatório, foi criada uma postagem de resumo para compartilhar as descobertas e gerar networking.  
 
-👉 Confira no LinkedIn: [adicione aqui o link da sua postagem]
-
----
+👉 Confira no LinkedIn: https://www.linkedin.com/posts/krissiley-corr%C3%AAa-04391a2b4_desenvolvimentoweb-frontend-mercadodeti-activity-7363928449138241541-J3AN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuZQLMBUmis9leuNj9cjSnmKgHwMXj5Rpc
 
 ## 👩‍💻 Autoria
 
