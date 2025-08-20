@@ -1,31 +1,62 @@
-```
-# Pesquisa de Mercado de TI 2025 🚀
+# 📊 Análise de Vagas em TI - Cruzeiro do Sul
 
-Análise das vagas e competências mais demandadas para desenvolvedores front-end júnior em 2025.
+Este repositório contém o trabalho desenvolvido para a disciplina **Tendências e Mercado de Trabalho em TI**, do curso de **Análise e Desenvolvimento de Sistemas da Universidade Cruzeiro do Sul**.  
 
-## 📌 Destaques da Pesquisa
-- **7 vagas analisadas** (LinkedIn/Glassdoor)
-- **Hard skills mais requisitadas:** React.js, JavaScript (ES6+), Git
-- **Soft skills mais valorizadas:** Trabalho em equipe, comunicação
-- **Média salarial júnior:** R$ 4.500 - R$ 5.800
-
-## 🔍 Relatório Completo
-[Clique aqui para visualizar o relatório em PDF](caminho-do-arquivo.pdf)
-
-## 🛠 Como Utilizar
-1. Baixe o PDF para referência
-2. Compare com outras pesquisas de mercado
-3. Use os dados para planejar seu desenvolvimento profissional
-
-## ⚡ Tecnologias Utilizadas
-- Canva (gráficos)
-- Google Sheets (organização de dados)
-- LinkedIn/Glassdoor (fontes de pesquisa)
+O objetivo foi analisar vagas reais de tecnologia em 2025, identificar **hard skills**, **soft skills**, **faixas salariais** e tendências do mercado, além de propor um **plano de ação de desenvolvimento profissional**.
 
 ---
 
-🔗 **Postagem no LinkedIn:**  
-["Qual o perfil do Desenvolvedor Front-end em 2025?"](insira_aqui_link_da_sua_postagem)  
+## 🔍 Conteúdo do Repositório
 
-📅 **Última atualização:** Julho/2025
-```
+- **Relatório Completo (ODF/PDF)**  
+  Documento com a análise detalhada, incluindo:
+  - Pesquisa de vagas (LinkedIn, Glassdoor, Programathor)  
+  - Extração e análise de dados  
+  - Gráficos de hard skills, soft skills e análise salarial  
+  - Conclusões e tendências observadas  
+  - Plano de ação (6 meses)  
+
+- **Gráficos em PNG**  
+  Arquivos visuais para melhor compreensão dos dados:
+  - `hard_skills_frontend.png`  
+  - `soft_skills_frontend.png`  
+  - `salarios_frontend.png`  
+  - `analise_salarial_frontend.png`
+
+---
+
+## 🧩 Resumo das Descobertas
+
+- **Hard Skills mais pedidas:** React.js, JavaScript (ES6+), Git, HTML5/CSS3  
+- **Soft Skills mais citadas:** Trabalho em equipe, Comunicação clara, Proatividade  
+- **Faixa Salarial:**  
+  - Júnior: R$ 4.000 a R$ 6.000  
+  - Estágio: R$ 2.500 a R$ 3.000  
+  - Analista de Dados: até R$ 7.000  
+  - Engenheiro de Machine Learning: até R$ 15.000  
+
+---
+
+## 📌 Como Citar este Trabalho
+
+Caso utilize este material como referência, cite como:  
+
+> Trabalho acadêmico desenvolvido na disciplina **Tendências e Mercado de Trabalho em TI**, Universidade Cruzeiro do Sul, 2025.  
+
+---
+
+## 🔗 Postagem no LinkedIn
+
+Além do relatório, foi criada uma postagem de resumo para compartilhar as descobertas e gerar networking.  
+
+👉 Confira no LinkedIn: [adicione aqui o link da sua postagem]
+
+---
+
+## 👩‍💻 Autoria
+
+- Desenvolvido por: **Krissiley Corrêa**  
+- Curso: **Análise e Desenvolvimento de Sistemas**  
+- Universidade Cruzeiro do Sul – 2025  
+
+---
